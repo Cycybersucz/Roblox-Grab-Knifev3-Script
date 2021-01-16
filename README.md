@@ -13,3 +13,6 @@ M - Psychopath Mode
 Q - Release 
 R - Push
 G - Finish
+
+
+For the Roblox Script Executer. Find it yourself ;)
